@@ -2,16 +2,6 @@
 
 An Android app to explore airline data using Jetpack Compose, Kotlin, MVVM, Hilt, and Moshi. Data is loaded from a local JSON file in the assets folder.
 
-
-## 📸 Screenshots
-
-### 🏠 Home Screen
-<img src="https://github.com/user-attachments/assets/ea155bd9-2deb-4931-b221-cb669e1910e0" alt="Home Screen" width="300" height="600"/>
-
-### 📋 Airline Details Screen
-<img src="screenshots/details_screen.png" alt="Details Screen" width="300"/>
-
-
 ## 🚀 Features
 
 - Displays airline data from a local JSON file located in the `assets/` directory.
@@ -41,4 +31,14 @@ An Android app to explore airline data using Jetpack Compose, Kotlin, MVVM, Hilt
 
    ```bash
    git clone https://github.com/thakurvibha/AirlineExplorerAssignment.git
+
+
+   ## 📸 Screenshots
+
+### 🏠 Home Screen
+<img src="https://github.com/user-attachments/assets/ea155bd9-2deb-4931-b221-cb669e1910e0" alt="Home Screen" width="300" height="600" />
+
+### 📋 Airline Details Screen
+<img src="https://github.com/user-attachments/assets/78cede59-a6ab-408d-b871-49de67fe293f" alt="Details Screen" width="300" height="600" />
+
 
