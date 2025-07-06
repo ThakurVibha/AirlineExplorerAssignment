@@ -18,9 +18,9 @@ An Android app to explore airline data using Jetpack Compose, Kotlin, MVVM, Hilt
 |--------------------|-------------------------------------|
 | **Language**        | Kotlin                              |
 | **Architecture**    | MVVM                                |
-| **UI Toolkit**      | Jetpack Compose (preferred)         |
+| **UI Toolkit**      | Jetpack Compose        |
 | **Navigation**      | Jetpack Navigation Component        |
-| **Networking**      | Retrofit                            |
+| **Networking**      | Retrofit + Moshi                            |
 | **Async Handling**  | Kotlin Coroutines + Flow            |
 | **Dependency Injection** | Hilt                         |
 ---
