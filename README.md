@@ -6,7 +6,7 @@ An Android app to explore airline data using Jetpack Compose, Kotlin, MVVM, Hilt
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-<img src="[screenshots/home_screen.png](https://github.com/user-attachments/assets/ea155bd9-2deb-4931-b221-cb669e1910e0)" alt="Home Screen" width="300"/>
+<img src="https://github.com/user-attachments/assets/ea155bd9-2deb-4931-b221-cb669e1910e0" alt="Home Screen" width="300"/>
 
 ### 📋 Airline Details Screen
 <img src="screenshots/details_screen.png" alt="Details Screen" width="300"/>
