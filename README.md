@@ -34,3 +34,11 @@ An Android app to explore airline data using Jetpack Compose, Kotlin, MVVM, Hilt
 
    ```bash
    git clone https://github.com/thakurvibha/AirlineExplorerAssignment.git
+
+    ## 📸 Screenshots
+
+### 🏠 Home Screen
+<img src="https://github.com/user-attachments/assets/ea155bd9-2deb-4931-b221-cb669e1910e0" alt="Home Screen" width="300" height="600" />
+
+### 📋 Airline Details Screen
+<img src="https://github.com/user-attachments/assets/22329eb1-0328-490f-a33d-4edea399a989" alt="Details Screen" width="300" height="600" />
